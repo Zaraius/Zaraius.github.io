@@ -1,0 +1,29 @@
+/*
+COLOR PALLETE:
+RED: #bc2d41
+Pink: #e2646a
+Gray: #999999
+Dark Gray: #434343
+
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-image: url('TeamPhoto.jpg');
+}
+nav{
+    width: 100%;
+    height: 100px;
+    padding-bottom: 100px;
+    /*background-color: rgba(37, 63, 45, 1); /*Use this to add a color or make the menu transparent */
+}
+
+.navtabs{display: inline-block; 
+    display: inline; 
+    zoom: 1; 
+    vertical-align: top; 
+    font-size: 12px;
+    width: 15%; 
+    background: white;}
